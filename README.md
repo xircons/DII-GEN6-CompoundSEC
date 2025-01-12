@@ -12,11 +12,11 @@ The importances of the project is allow student to do
 **Backlog refinement** is the important step for student. The backlog can only create by student who did the self-study and develop the project to some extend.
 
 # Design Brief
-Access control system for multi-floor system (low floor, medium floor, high floor)
+1. Access control system for multi-floor system (low floor, medium floor, high floor)
 - Access cards with multi-facades id and time-based encryption
 - Floor level access control and room level access control
-Audit trial for card access
+2. Audit trial for card access
 - Each attempts will be logged with necessary info
 - Card generation or modification will be logged with necessary info
-Card management 
+3. Card management 
 - Add, modify, revoke permission of each card
