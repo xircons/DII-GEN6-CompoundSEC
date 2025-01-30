@@ -1,0 +1,100 @@
+001:Espresso:2.99:100
+002:Americano:3.49:80
+003:Latte:3.99:60
+004:Cappuccino:4.29:50
+005:Flat White:4.49:30
+006:Mocha:4.79:40
+007:Macchiato:3.69:70
+008:Cold Brew:4.29:20
+009:Nitro Cold Brew:5.49:15
+010:Iced Latte:4.19:25
+011:Iced Americano:3.79:100
+012:Iced Mocha:4.99:75
+013:Iced Caramel Latte:4.69:85
+014:Irish Coffee:5.99:10
+015:Affogato:5.49:50
+016:Turkish Coffee:3.29:40
+017:French Press:3.99:60
+018:Pour Over:4.19:55
+019:Cortado:3.79:65
+020:Flat White with Vanilla:4.89:45
+021:Chai Latte:4.39:95
+022:Pumpkin Spice Latte:4.89:20
+023:Matcha Latte:4.79:50
+024:Honey Latte:4.49:30
+025:Almond Milk Latte:4.69:40
+026:Coconut Milk Latte:4.89:35
+027:Caramel Macchiato:4.99:50
+028:Vanilla Latte:4.69:80
+029:Hazelnut Latte:4.79:60
+030:Toffee Nut Latte:4.69:45
+031:Iced Mocha with Cream:5.29:30
+032:Spiced Caramel Latte:4.99:50
+033:Maple Latte:4.79:55
+034:Salted Caramel Mocha:5.49:10
+035:Java Chip Frappuccino:5.99:15
+036:Mocha Frappuccino:5.49:25
+037:Caramel Frappuccino:5.29:40
+038:Vanilla Bean Frappuccino:5.69:60
+039:Coffee Frappuccino:5.19:50
+040:Matcha Frappuccino:5.89:30
+041:Pumpkin Spice Frappuccino:5.99:10
+042:Caramel Macchiato Frappuccino:5.79:20
+043:Chocolate Mocha Frappuccino:5.99:25
+044:Iced Coffee:2.99:90
+045:Cold Brew with Vanilla:4.79:20
+046:Cold Brew with Sweet Cream:4.59:25
+047:Black Coffee:2.29:120
+048:Decaf Espresso:3.49:40
+049:Decaf Americano:3.99:50
+050:Decaf Latte:4.29:30
+051:Decaf Cappuccino:4.19:35
+052:Decaf Mocha:4.59:40
+053:Decaf Flat White:4.69:45
+054:Hazelnut Coffee:3.79:60
+055:Caramel Coffee:3.99:70
+056:Chocolate Coffee:4.29:50
+057:French Vanilla Coffee:4.19:65
+058:Irish Cream Coffee:4.49:25
+059:Butter Pecan Coffee:4.79:20
+060:Maple Pecan Coffee:4.69:30
+061:Spiced Apple Coffee:4.39:35
+062:Berry Infused Coffee:4.59:20
+063:Lavender Infused Coffee:4.49:15
+064:Rosemary Infused Coffee:4.29:50
+065:Mint Infused Coffee:4.39:60
+066:Coconut Infused Coffee:4.69:45
+067:Mocha with Hazelnut Syrup:5.29:25
+068:Espresso with Sweetened Condensed Milk:4.59:35
+069:Espresso Tonic:5.49:15
+070:Coffee with Coconut Cream:4.79:40
+071:Coffee with Almond Milk:4.69:50
+072:Coffee with Oat Milk:4.79:30
+073:Vanilla Cold Brew:5.19:25
+074:Espresso Martini:6.49:10
+075:Cold Brew with Honey:4.89:15
+076:Coffee with Cinnamon:4.39:30
+077:Peach Iced Coffee:4.49:20
+078:Cherry Coffee:4.29:25
+079:Hazelnut Iced Coffee:4.79:15
+080:Caramel Iced Coffee:4.69:30
+081:Pumpkin Spice Iced Coffee:5.19:20
+082:Tiramisu Latte:5.49:10
+083:Peanut Butter Mocha:5.29:20
+084:Affogato with Chocolate:5.99:15
+085:Sweet Potato Latte:4.99:10
+086:Rose Latte:4.79:25
+087:Almond Iced Coffee:4.69:30
+088:Lemon Coffee:4.19:40
+089:Strawberry Iced Coffee:4.59:15
+090:Banana Coffee:4.49:20
+091:Chocolate Coconut Latte:5.29:25
+092:Maple Bourbon Latte:5.69:10
+093:Honey Iced Coffee:4.99:20
+094:Caramel Cinnamon Latte:5.19:15
+095:Salted Caramel Latte:5.49:15
+096:Churro Latte:4.89:30
+097:Blueberry Latte:5.29:25
+098:Matcha Cold Brew:5.39:15
+099:Iced Honey Latte:4.89:25
+100:Almond Joy Latte:5.59:10
